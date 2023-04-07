@@ -6,7 +6,7 @@ The aim of this project is to create a system that solves geometry tasks at diff
 
 It consists of two main parts: the **web application**, which is the interface between the task solving system and the user, and the task solving system itself.
 
-The application is written in TypeScript. It also includes a compiled part written in C, which implements the mathematical aspects of it. The backend of the application is Django.
+The application is written in TypeScript. It also includes a compiled part written in C++, which implements the mathematical aspects of it. The backend of the application is Django.
 
 The **task solving application** is written in C++. It is a simple server-like application.
 
