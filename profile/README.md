@@ -1,12 +1,13 @@
 ## Hi there 👋
 
-<!--
+It is an organisation dedicated to developing the **MeetKunde** project. 
 
-**Here are some ideas to get you started:**
+The aim of this project is to create a system that solves geometry tasks at different levels of difficulty and presents solutions step by step.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+It consists of two main parts: the **web application**, which is the interface between the task solving system and the user, and the task solving system itself.
+
+The application is written in TypeScript. It also includes a compiled part written in C, which implements the mathematical aspects of it. The backend of the application is Django.
+
+The **task solving application** is written in C++. It is a simple server-like application.
+
+An important part of this project is the **scientific part**. Its aim is to develop methods to add 'creativity' to the task-solving system.
